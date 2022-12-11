@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DwarfKyoto
+- 👀 I’m interested in music producing and web development 😻🎧🖥
+- 🌱 I’m currently learning javascript to become a fullstack web developer 💜
+- 💞️ I’m looking to collaborate on ...
+- 📫 You can contanct me on:
+    -> Instagram: @dwarfrobby ❤
+    ->My LinkTree: https://linktr.ee/dwarfmusic
