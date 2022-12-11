@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DwarfKyoto
+- 👋 Hi, I’m Robby
 - 👀 I’m interested in music producing and web development 😻🎧🖥
 - 🌱 I’m currently learning javascript to become a fullstack web developer 💜
 - 💞️ I’m looking to collaborate on ...
